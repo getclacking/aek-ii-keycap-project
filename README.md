@@ -11,6 +11,8 @@ I decided to make myself a copy of the keycaps as a layout ([svg layout](svg/app
 
 My keyboard layout is geared towards Emacs use, and the fn key is labelled as **Hyper**. The Caps Lock is noticably absent, in it's place is another **Control** key.  I've also created a couple of Karabiner hacks **TODO**, I need to add them to this document for future reference.
 
+The colored key caps in the WASD were added as an experiment to see if I can use them to aid my touch typing. I'm generally around 30wpm at the moment, and I'd like to improve significantly.  Having the rainbow of keys on my home row, "should" allow me to orient myself quickly if my hands stray. (My most common typing failure is to g/h or y/t instead of the other, similar mishaps occur with c/v and i/u.)  - **TODO** I'll try to add an a note on the effect of this.  Note this keyboard is for use in my office, I use the Apple Extended II at home, however, I really like the feel of the Cherry MX Green switches. (I have yet to remove a couple of damps from the AEKII which might even out the feel a bit.) The AEKII is an excellent keyboard too, and at 20 or so years old, it's in fantastic shape.
+
 ## The font, modified Univers 57 Oblique
 
 After a little research I found out that the older Apple Keyboards use the Universe 57 Oblique font (although it's a slightly modified version than the one which can be purchased from Linotype.) The @, $ and & are fairly different, and the _ - = + / | are custom drawn for the keyboard, as they are oversized and significantly different from the font glyphs.  Also notably, the letter spacing (or perhaps kerning) is much tighter than standard, I've tried to replicate this as faithfully as possible to the original.
