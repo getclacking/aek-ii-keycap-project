@@ -15,11 +15,15 @@ The colored key caps in the WASD were added as an experiment to see if I can use
 
 ## The font, modified Univers 57 Oblique
 
-After a little research I found out that the older Apple Keyboards use the Universe 57 Oblique font (although it's a slightly modified version than the one which can be purchased from Linotype.) The @, $ and & are fairly different, and the _ - = + / | are custom drawn for the keyboard, as they are oversized and significantly different from the font glyphs.  Also notably, the letter spacing (or perhaps kerning) is much tighter than standard, I've tried to replicate this as faithfully as possible to the original.
+After a little research I found out that the older Apple Keyboards use the Universe 57 Oblique font (although it's a slightly modified version than the one which can be purchased from Linotype.) The @, $ and & are fairly different, and the _ - = + / | are custom drawn for the keyboard, as they are oversized and significantly different from the font glyphs.  Also notably, the letter spacing (or perhaps kerning) is much tighter than standard, I've tried to replicate this as faithfully as possible to the original. I also hand edited the $ and # glyphs on my layout, however I didn't tackle the @ or & although I would like to if I have another machine or key set made up.
 
 There is (what appears to be) rounding of some sort on almost all of the glyphs, although this may be due to laser etching techniques in the early 90s, I haven't been able to find any concrete info about it.
 
 Anyway, the results of my work are what you see here, the [svg](svg/apple-wasd-layout.svg) reproduction took a little over 4 hours to put together. WASD turned it around and shipped it to Singapore in about a week.  Please feel free to grab the svg and use it yourself, or modify it.  I expect this could be seen as copyright infringement by Apple, but I hope it's just regarded as an homage.
+
+The only things I am slightly displeased about for this project was my choice of symbol for the Control keys, which is far smaller than I'd like.  I will amend it if I order another keyset or complete keyboard.
+
+Hope you enjoy it too. Feel free to have your own made up, the SVG as is will upload and match to a WASD 104 key set.
 
 ![](images/image1.jpeg)
 
