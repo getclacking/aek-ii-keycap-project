@@ -11,7 +11,8 @@ After buying an old Apple Extended Keyboard II on ebay,  I decided to make mysel
 
 <img src="https://rawgit.com/ocodo/Keycaps-Inspired-by-Apple-Extended-Keyboard-II/master/svg/apple-wasd-layout.svg"/>
 
-## Notes 
+![](images/layout-closeup.png)
+## Notes
 
 My keyboard layout is geared towards Emacs use, and the fn key is labelled as **Hyper**. The Caps Lock is noticably absent, in it's place is another **Control** key.  I've also created a couple of Karabiner hacks **TODO**, I need to add them to this document for future reference.
 
@@ -27,7 +28,7 @@ Anyway, the results of my work are what you see here, the [svg](svg/apple-wasd-l
 
 The only things I am slightly displeased about for this project was my choice of symbol for the Control keys, which is far smaller than I'd like.  I will amend it if I order another keyset or complete keyboard.
 
-#### WASD keyboard with custom key caps 
+#### WASD keyboard with custom key caps
 
 ![](images/image1.jpeg)
 
@@ -44,5 +45,3 @@ The only things I am slightly displeased about for this project was my choice of
 ![](images/image7.jpeg)
 
 ![](images/image8.jpeg)
-
-
