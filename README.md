@@ -1,9 +1,18 @@
 # Keycaps Inspired by Apple Extended Keyboard II
 
 ## Description
-After buying an old Apple Extended Keyboard II on ebay,  I decided to make myself a copy of the keycaps as a layout ([svg layout](svg/apple-wasd-layout.svg)).  [WASD](http://www.wasdkeyboards.com/) make custom Cherry Mx compatible key caps for $50/set (87/88 or 104/5 key set.) They also build a pretty solid mechanical keyboard. I got a full keyboard and caps made up, as you'll see below.
 
-#### My Apple Extended Keyboard II
+After buying an Apple Extended Keyboard II on ebay, I decided to make
+myself a copy of the keycaps as a layout for a
+[WASD](http://www.wasdkeyboards.com/) keyboard. The make custom Cherry
+MX compatible key caps for $50/set (87/88/104/105 key sets are
+available.) They also build a pretty solid mechanical keyboard. I
+ordered a 104 key Cherry MX Green keyboard last week, I'm typing with
+it now.
+
+#### Apple Extended Keyboard II
+
+Read more at [AEKII Wiki](http://deskthority.net/wiki/Apple_Extended_Keyboard_II)
 
 ![](images/image10.jpeg)
 
