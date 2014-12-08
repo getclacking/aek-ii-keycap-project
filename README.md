@@ -3,6 +3,8 @@
 ## Description
 After buying an old Apple Extended Keyboard II on ebay,  I decided to make myself a copy of the keycaps as a layout ([svg layout](svg/apple-wasd-layout.svg)).  [WASD](http://www.wasdkeyboards.com/) make custom Cherry Mx compatible key caps for $50/set (87/88 or 104/5 key set.) They also build a pretty solid mechanical keyboard. I got a full keyboard and caps made up, as you'll see below.
 
+#### My Apple Extended Keyboard II
+
 ![](images/image10.jpeg)
 
 ## Notes 
@@ -21,7 +23,7 @@ Anyway, the results of my work are what you see here, the [svg](svg/apple-wasd-l
 
 The only things I am slightly displeased about for this project was my choice of symbol for the Control keys, which is far smaller than I'd like.  I will amend it if I order another keyset or complete keyboard.
 
-Hope you enjoy it too. Feel free to have your own made up, the SVG as is will upload and match to a WASD 104 key set.
+### Photos of the WASD keyboard with custom key caps 
 
 ![](images/image1.jpeg)
 
