@@ -11,7 +11,10 @@ After buying an old Apple Extended Keyboard II on ebay,  I decided to make mysel
 
 <img src="https://rawgit.com/ocodo/Keycaps-Inspired-by-Apple-Extended-Keyboard-II/master/svg/apple-wasd-layout.svg"/>
 
+##### Closeup detail
+
 ![](images/layout-closeup.png)
+
 ## Notes
 
 My keyboard layout is geared towards Emacs use, and the fn key is labelled as **Hyper**. The Caps Lock is noticably absent, in it's place is another **Control** key.  I've also created a couple of Karabiner hacks **TODO**, I need to add them to this document for future reference.
