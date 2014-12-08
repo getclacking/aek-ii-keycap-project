@@ -80,6 +80,10 @@ Singapore (from CA USA) in about a week.  The results are impressive.
 
 #### Finished keyboard
 
+Look Ma'! No Caps Lock.
+
+![](images/image11.jpg)
+
 ![](images/image1.jpeg)
 
 ![](images/image2.jpeg)
