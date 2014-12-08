@@ -1,9 +1,7 @@
 # Keycaps Inspired by Apple Extended Keyboard II
 
 ## Description
-After buying an old Apple Extended Keyboard II on ebay, 
-
-I decided to make myself a copy of the keycaps as a layout ([svg layout](svg/apple-wasd-layout.svg)) for a Cherry MX based mechanical keyboard.  WASD offer a service to make custom key caps for $50 a set (104/5 key set.)
+After buying an old Apple Extended Keyboard II on ebay,  I decided to make myself a copy of the keycaps as a layout ([svg layout](svg/apple-wasd-layout.svg)).  WASD offer a service to make custom key caps for $50 a set (104/5 key set.) They build using a variety of Cherry MX key switches.
 
 ![](images/image10.jpeg)
 
