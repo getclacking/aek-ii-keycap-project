@@ -9,7 +9,7 @@ After buying an old Apple Extended Keyboard II on ebay,  I decided to make mysel
 
 ### The Layout
 
-<img src="svg/apple-wasd-layout.svg"/>
+<img src="https://rawgit.com/ocodo/Keycaps-Inspired-by-Apple-Extended-Keyboard-II/master/svg/apple-wasd-layout.svg"/>
 
 ## Notes 
 
