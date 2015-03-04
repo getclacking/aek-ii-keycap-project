@@ -82,7 +82,7 @@ Singapore (from CA USA) in about a week.  The results are impressive.
 
 Look Ma'! No Caps Lock.
 
-![](images/image11.jpg)
+![](images/images11.jpg)
 
 ![](images/image1.jpeg)
 
