@@ -100,6 +100,9 @@ Look Ma'! No Caps Lock.
 
 ![](images/image8.jpeg)
 
+![](images/black-white-1.jpg)
+
+![](images/black-white-2.jpg)
 
 ## Licence
 
